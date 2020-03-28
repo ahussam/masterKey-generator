@@ -1,5 +1,5 @@
 # masterKey-generator
-JS script to create a master key from sub keys. 
+JS script to create a master key from subkeys. 
 
 ![ss](mkg.png)
 
